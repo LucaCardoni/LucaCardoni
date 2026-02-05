@@ -5,14 +5,14 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucaCardoni&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaCardoni&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 ## About Me 🚀
-Freelance Python developer from **Milan, Italy** helping businesses and individuals automate the boring stuff and build useful tools.
+Freelance Python developer from **Perugia, Italy** helping businesses and individuals automate the boring stuff and build useful tools.
 
 I specialize in:
 - 🔧 Automation scripts & bots
@@ -37,17 +37,14 @@ Currently delivering clean, well-documented code on **Fiverr** — fast turnarou
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCardoni&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 <br>
 
 ## Let's Connect 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDI_URL)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
-📧 [your.email@example.com](mailto:your.email@example.com)
+📧 [luca.cardoni.dev@gmail.com](mailto:luca.cardoni.dev@gmail.com)
 
 Open to collaborations, freelance gigs, or just geeking out over Python. Drop me a message! 😄
-
----
-Made with ❤️ in Milan
